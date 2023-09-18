@@ -1,0 +1,8 @@
+.idea/
+.env
+example.env
+venv/
+.git/
+.gitignore
+ci/
+README.md
